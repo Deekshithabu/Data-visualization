@@ -1,5 +1,6 @@
 # Data-visualization
-1. Cleaning of dataset using Power BI editor.
-2. Data Visualization using different kinds of charts.
-3. Giving description for each chart.
-4. Creating a storyboard which helps in the easy understanding of the charts. 
+1. Collection of Superstore dataset from kaggle 
+2. Cleaning of dataset using Power BI editor.
+3. Data Visualization using different kinds of charts.
+4. Giving description for each chart.
+5. Creating a storyboard which helps in the easy understanding of the charts. 
